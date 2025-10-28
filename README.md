@@ -1,2 +1,2 @@
 # turtle-project
-A simple Python project using the Turtle graphics library
+A Python project using Turtle with multiple modules.
