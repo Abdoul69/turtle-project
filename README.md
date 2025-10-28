@@ -2,8 +2,6 @@
 
 # 🐢 Turtle Project
 
-# 🐢 Turtle Project
-
 A Python project using **Turtle graphics** with multiple modules.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Turtle](https://img.shields.io/badge/Turtle-FFCC00?logo=turtle&logoColor=green)
