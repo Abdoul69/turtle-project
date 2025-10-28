@@ -1,5 +1,3 @@
-# turtle-project
-
 # Turtle Project
 
 A Python project using **Turtle graphics** with multiple modules.
