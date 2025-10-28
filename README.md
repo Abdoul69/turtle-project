@@ -1,6 +1,6 @@
 # turtle-project
 
-# 🐢 Turtle Project
+# Turtle Project
 
 A Python project using **Turtle graphics** with multiple modules.
 
@@ -8,7 +8,7 @@ A Python project using **Turtle graphics** with multiple modules.
 
 ---
 
-## 🎯 Project Goal
+##  Project Goal
 This project demonstrates:
 - Python functions and modules
 - Loops and Turtle graphics
@@ -16,7 +16,7 @@ This project demonstrates:
 
 ---
 
-## ⚙️ How to Run
+##  How to Run
 Make sure all files are in the same folder, then run:
 
 ```bash
